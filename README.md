@@ -29,4 +29,4 @@
        to listen for any changes in your code
 
 ### Bonus
-![. . .](https://github.com/BuddySwThu/jest-testing-swt301/blob/main/screenshot/photo_2022-10-22_05-13-23.jpg)
+![. . .](https://github.com/BuddySwThu/jest-testing-basic/blob/main/screenshot/photo_2022-10-22_05-13-23.jpg)
