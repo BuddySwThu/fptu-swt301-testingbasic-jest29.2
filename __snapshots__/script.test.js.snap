@@ -1,9 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`getErrorMessage returns an error for a valid code 1`] = `"The dog walks on a leg"`;
-
-exports[`getErrorMessage returns an error for a valid code 2`] = `"Cats dont eat mouses"`;
-
-exports[`getErrorMessage returns an error for a valid code 3`] = `"The Car dont run"`;
-
-exports[`getErrorMessage throws an error otherwise 1`] = `"No error messages for that code"`;
