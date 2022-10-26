@@ -1,4 +1,4 @@
-[![Node.js CI](https://github.com/BuddySwThu/jest-testing-swt301/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/BuddySwThu/jest-testing-swt301/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/BuddySwThu/jest-testing-basic/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/BuddySwThu/jest-testing-basic/actions/workflows/node.js.yml)
 
 ### Practicing Testing in Javascript with Jest
   In this project, unit testing was employed in testing our modules for expected behavior. 
@@ -21,12 +21,12 @@
        to install the dependencies
    5. Run
           
-          $ npm run test
+          $ npm test
        to run all test-cases
    6. Run
 
-          $ npm run testwatch
+          $ npm run test-watch
        to listen for any changes in your code
 
 ### Bonus
-![. . .](https://github.com/BuddySwThu/jest-testing-swt301/blob/main/screenshot/photo_2022-10-22_05-13-23.jpg)
+![. . .](https://github.com/BuddySwThu/jest-testing-basic/blob/main/screenshot/photo_2022-10-22_05-13-23.jpg)
