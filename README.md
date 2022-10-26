@@ -1,4 +1,4 @@
-[![Node.js CI](https://github.com/BuddySwThu/jest-testing-swt301/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/BuddySwThu/jest-testing-swt301/actions/workflows/node.js.yml)
+[![Node.js CI]([![Node.js CI](https://github.com/BuddySwThu/jest-testing-basic/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/BuddySwThu/jest-testing-basic/actions/workflows/node.js.yml))
 
 ### Practicing Testing in Javascript with Jest
   In this project, unit testing was employed in testing our modules for expected behavior. 
