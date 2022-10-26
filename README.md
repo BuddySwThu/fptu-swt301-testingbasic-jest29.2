@@ -21,11 +21,11 @@
        to install the dependencies
    5. Run
           
-          $ npm run test
+          $ npm test
        to run all test-cases
    6. Run
 
-          $ npm run testwatch
+          $ npm run test-watch
        to listen for any changes in your code
 
 ### Bonus
