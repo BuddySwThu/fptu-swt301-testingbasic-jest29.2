@@ -30,3 +30,9 @@
 
 ### Bonus
 ![. . .](https://github.com/BuddySwThu/jest-testing-basic/blob/main/screenshot/photo_2022-10-22_05-13-23.jpg)
+![. . .](https://github.com/BuddySwThu/jest-testing-basic/blob/main/screenshot/Screenshot%202022-10-25%20at%2011-34-45%20Jest.png)
+![. . .](https://github.com/BuddySwThu/jest-testing-basic/blob/main/screenshot/Screenshot%202022-10-25%20at%2011-35-21%20Jest.png)
+![. . .](https://github.com/BuddySwThu/jest-testing-basic/blob/main/screenshot/Screenshot%202022-10-25%20at%2011-35-35%20Jest.png)
+![. . .](https://github.com/BuddySwThu/jest-testing-basic/blob/main/screenshot/Screenshot%202022-10-25%20at%2011-35-46%20Jest.png)
+![. . .](https://github.com/BuddySwThu/jest-testing-basic/blob/main/screenshot/Screenshot%202022-10-25%20at%2011-35-54%20Jest.png)
+![. . .](https://github.com/BuddySwThu/jest-testing-basic/blob/main/screenshot/Screenshot%202022-10-25%20at%2011-36-12%20Jest.png)
